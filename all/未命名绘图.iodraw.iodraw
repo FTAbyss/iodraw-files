@@ -75,6 +75,11 @@
         <mxCell id="yXnyf95uIr6ny8Ckzvcg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXnyf95uIr6ny8Ckzvcg-11" target="yXnyf95uIr6ny8Ckzvcg-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yXnyf95uIr6ny8Ckzvcg-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yXnyf95uIr6ny8Ckzvcg-25">
+          <mxGeometry x="-0.042" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yXnyf95uIr6ny8Ckzvcg-11" value="INS解算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="80" height="40" as="geometry" />
         </mxCell>
@@ -98,6 +103,14 @@
             <mxPoint x="477" y="353" as="targetPoint" />
             <Array as="points">
               <mxPoint x="460" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXnyf95uIr6ny8Ckzvcg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yXnyf95uIr6ny8Ckzvcg-27" target="yXnyf95uIr6ny8Ckzvcg-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="300" />
+              <mxPoint x="480" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
