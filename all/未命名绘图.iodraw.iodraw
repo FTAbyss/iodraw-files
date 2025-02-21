@@ -12,6 +12,11 @@
             <mxPoint x="460" y="350.2222222222222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yXnyf95uIr6ny8Ckzvcg-24" value="经纬度、高度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yXnyf95uIr6ny8Ckzvcg-20">
+          <mxGeometry x="-0.1705" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yXnyf95uIr6ny8Ckzvcg-2" value="GNSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="80" height="40" as="geometry" />
         </mxCell>
@@ -73,10 +78,16 @@
         <mxCell id="yXnyf95uIr6ny8Ckzvcg-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yXnyf95uIr6ny8Ckzvcg-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yXnyf95uIr6ny8Ckzvcg-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yXnyf95uIr6ny8Ckzvcg-21" target="yXnyf95uIr6ny8Ckzvcg-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="400" as="sourcePoint" />
             <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXnyf95uIr6ny8Ckzvcg-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yXnyf95uIr6ny8Ckzvcg-21" target="yXnyf95uIr6ny8Ckzvcg-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="367" as="sourcePoint" />
+            <mxPoint x="487" y="353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
