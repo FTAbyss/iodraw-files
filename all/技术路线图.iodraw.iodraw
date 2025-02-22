@@ -16,8 +16,11 @@
         <mxCell id="gAYhfJSGz2Etf6fjazai-2" value="了解插秧机结构及自动导航原理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gAYhfJSGz2Etf6fjazai-4" value="设计插秧机结构与生产装配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="260" width="200" height="40" as="geometry" />
+        <mxCell id="gAYhfJSGz2Etf6fjazai-4" value="设计插秧机结构并生产装配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-9" value="建立导航定位系统与路径跟踪方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
