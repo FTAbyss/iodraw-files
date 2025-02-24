@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1JJMdo_C39NmSeUABqId-1" value="SOF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1JJMdo_C39NmSeUABqId-1" value="SOF(帧起始)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="420" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-2" value="标识符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="1JJMdo_C39NmSeUABqId-6" value="DLC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JJMdo_C39NmSeUABqId-7" value="数据yu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1JJMdo_C39NmSeUABqId-7" value="数据域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="420" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
