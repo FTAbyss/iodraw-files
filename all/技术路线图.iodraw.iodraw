@@ -79,7 +79,15 @@
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-16" value="作业机构与转向方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nh0guIYAuAQ-R2dRaUSs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-17" target="nh0guIYAuAQ-R2dRaUSs-28">
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-17" target="nh0guIYAuAQ-R2dRaUSs-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="370" />
+              <mxPoint x="695" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-17" target="nh0guIYAuAQ-R2dRaUSs-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-17" value="传感器与电子元件选型、接线安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-28" value="原始定位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="600" y="390" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-36" value="原始定位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="680" width="100" height="40" as="geometry" />
@@ -120,7 +128,7 @@
           <mxGeometry x="350" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-43" value="软件控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="390" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
