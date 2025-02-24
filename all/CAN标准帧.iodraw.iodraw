@@ -28,6 +28,12 @@
         <mxCell id="1JJMdo_C39NmSeUABqId-8" value="CRC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1JJMdo_C39NmSeUABqId-9" value="CRC分隔符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1JJMdo_C39NmSeUABqId-10" value="ACK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="420" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
