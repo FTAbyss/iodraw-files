@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-12" value="执行转向与作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="520" width="100" height="40" as="geometry" />
+          <mxGeometry x="420" y="550" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-13" target="nh0guIYAuAQ-R2dRaUSs-37">
           <mxGeometry relative="1" as="geometry" />
@@ -76,6 +76,14 @@
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-16" target="nh0guIYAuAQ-R2dRaUSs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-16" target="nh0guIYAuAQ-R2dRaUSs-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="520" />
+              <mxPoint x="470" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-16" value="作业机构与转向方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="100" height="40" as="geometry" />
         </mxCell>
@@ -83,7 +91,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="370" />
-              <mxPoint x="705" y="370" />
+              <mxPoint x="710" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,11 +127,19 @@
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-37" value="精确定位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="460" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-41" target="nh0guIYAuAQ-R2dRaUSs-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="520" />
+              <mxPoint x="470" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-41" value="期望转角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-43" value="软件控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="390" width="50" height="40" as="geometry" />
+          <mxGeometry x="680" y="390" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
