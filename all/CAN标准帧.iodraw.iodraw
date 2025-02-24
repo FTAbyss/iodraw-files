@@ -35,7 +35,7 @@
           <mxGeometry x="540" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-11" value="EOF(结束帧)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="400" width="90" height="60" as="geometry" />
+          <mxGeometry x="570" y="400" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-14" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="80" height="20" as="geometry" />
@@ -65,16 +65,16 @@
           <mxGeometry x="470" y="460" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-25" value="IFS(帧间隔)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="400" width="70" height="60" as="geometry" />
+          <mxGeometry x="650" y="400" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-26" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="460" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-28" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="460" width="90" height="20" as="geometry" />
+          <mxGeometry x="570" y="460" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-29" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="460" width="90" height="20" as="geometry" />
+          <mxGeometry x="650" y="460" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1JJMdo_C39NmSeUABqId-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,13 +85,13 @@
         <mxCell id="1JJMdo_C39NmSeUABqId-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="330" as="sourcePoint" />
-            <mxPoint x="980" y="330" as="targetPoint" />
+            <mxPoint x="720" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="400" as="sourcePoint" />
-            <mxPoint x="980" y="320" as="targetPoint" />
+            <mxPoint x="718.75" y="410" as="sourcePoint" />
+            <mxPoint x="718.75" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
