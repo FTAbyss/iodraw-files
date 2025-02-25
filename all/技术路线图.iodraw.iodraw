@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="24.7.17">
   <diagram name="第 1 页" id="sHIwoW0Vg85FGQkZcEAp">
-    <mxGraphModel dx="593" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,9 +118,6 @@
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-28" value="原始定位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="390" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nh0guIYAuAQ-R2dRaUSs-36" value="原始定位信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="790" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-37" target="nh0guIYAuAQ-R2dRaUSs-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -137,6 +134,14 @@
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-41" value="期望转角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nh0guIYAuAQ-R2dRaUSs-43" target="nh0guIYAuAQ-R2dRaUSs-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="520" />
+              <mxPoint x="470" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nh0guIYAuAQ-R2dRaUSs-43" value="软件控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="390" width="60" height="40" as="geometry" />
