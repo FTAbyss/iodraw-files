@@ -54,6 +54,21 @@
             <mxPoint x="-6" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cW-tBf6uBRFhicxeOp2a-1" value="&lt;font&gt;Yn&lt;/font&gt;&lt;span class=&quot;content-right_2s-H4&quot;&gt;&lt;sup&gt;&#39;&lt;/sup&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="369.9999999999999" y="299.99724137931025" as="geometry">
+            <mxPoint x="-6" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cW-tBf6uBRFhicxeOp2a-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+            <mxPoint x="180" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="330" />
+              <mxPoint x="160" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
