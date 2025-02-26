@@ -16,14 +16,16 @@
             <mxPoint x="400" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rsv5t0D3GQru30EX57OH-7" value="Zn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rsv5t0D3GQru30EX57OH-2">
+          <mxGeometry x="0.5846" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rsv5t0D3GQru30EX57OH-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="360" as="sourcePoint" />
             <mxPoint x="280" y="250" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rsv5t0D3GQru30EX57OH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
