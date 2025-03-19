@@ -1,13 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
   <diagram name="第 1 页" id="NdZuyi01XpxpCT8Xc4o6">
-    <mxGraphModel dx="553" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1JJMdo_C39NmSeUABqId-1" value="SOF(&lt;font face=&quot;宋体&quot;&gt;帧起始&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="80" y="400" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JJMdo_C39NmSeUABqId-2" value="Identifier&amp;nbsp;&amp;nbsp;&amp;nbsp; （&lt;font face=&quot;宋体&quot;&gt;标识符&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="1JJMdo_C39NmSeUABqId-2" value="&amp;nbsp;&amp;nbsp; Identifier&amp;nbsp;&amp;nbsp;&amp;nbsp; （&lt;font face=&quot;宋体&quot;&gt;标识符&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-3" value="RTR" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -22,19 +22,19 @@
         <mxCell id="1JJMdo_C39NmSeUABqId-6" value="DLC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="330" y="400" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JJMdo_C39NmSeUABqId-7" value="Data Field（数据域）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="1JJMdo_C39NmSeUABqId-7" value="Data Field（&lt;font face=&quot;宋体&quot;&gt;数据域&lt;/font&gt;）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="360" y="400" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-8" value="CRC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="430" y="400" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JJMdo_C39NmSeUABqId-9" value="CRC分隔符" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="1JJMdo_C39NmSeUABqId-9" value="CRC&lt;font face=&quot;宋体&quot;&gt;分隔符&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="400" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-10" value="ACK" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="540" y="400" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JJMdo_C39NmSeUABqId-11" value="EOF(结束帧)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="1JJMdo_C39NmSeUABqId-11" value="EOF(&lt;font face=&quot;宋体&quot;&gt;结束帧&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="570" y="400" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-14" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="1JJMdo_C39NmSeUABqId-24" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="460" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1JJMdo_C39NmSeUABqId-25" value="IFS(帧间隔)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="1JJMdo_C39NmSeUABqId-25" value="IFS(&lt;font face=&quot;宋体&quot;&gt;帧间隔&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="650" y="400" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1JJMdo_C39NmSeUABqId-26" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
