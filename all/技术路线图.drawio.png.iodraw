@@ -1,0 +1,152 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
+  <diagram name="第 1 页" id="sHIwoW0Vg85FGQkZcEAp">
+    <mxGraphModel dx="1382" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gAYhfJSGz2Etf6fjazai-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-1" target="gAYhfJSGz2Etf6fjazai-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-1" value="搜索分析相关文献并提出研究内容" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-2" target="gAYhfJSGz2Etf6fjazai-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-2" target="gAYhfJSGz2Etf6fjazai-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-2" target="gAYhfJSGz2Etf6fjazai-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-2" value="了解插秧机结构及自动导航与控制原理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="360" y="180" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-4" target="nh0guIYAuAQ-R2dRaUSs-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-4" value="设计插秧机结构并生产装配" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="200" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-9" target="nh0guIYAuAQ-R2dRaUSs-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-9" target="nh0guIYAuAQ-R2dRaUSs-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-9" value="建立导航定位系统与路径跟踪方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="410" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="gAYhfJSGz2Etf6fjazai-10" target="nh0guIYAuAQ-R2dRaUSs-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAYhfJSGz2Etf6fjazai-10" value="自动控制系统设计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="610" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-2" target="nh0guIYAuAQ-R2dRaUSs-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-2" value="建立插秧机差速运动模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="340" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-3" target="nh0guIYAuAQ-R2dRaUSs-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;GNSS&lt;/font&gt;和&lt;font face=&quot;Times New Roman&quot;&gt;IMU&lt;/font&gt;组合导航定位" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="480" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-4" target="nh0guIYAuAQ-R2dRaUSs-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-4" value="改进纯跟踪模糊算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="340" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-2" target="nh0guIYAuAQ-R2dRaUSs-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-12" value="执行转向与作业" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="420" y="550" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-13" target="nh0guIYAuAQ-R2dRaUSs-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;EKF&lt;/font&gt;滤波处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-16" target="nh0guIYAuAQ-R2dRaUSs-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-16" target="nh0guIYAuAQ-R2dRaUSs-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="520" />
+              <mxPoint x="470" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-16" value="作业机构与转向方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="200" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-17" target="nh0guIYAuAQ-R2dRaUSs-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="370" />
+              <mxPoint x="710" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-17" target="nh0guIYAuAQ-R2dRaUSs-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="370" />
+              <mxPoint x="640" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-17" value="传感器与电子元件选型、接线安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="610" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-28" target="nh0guIYAuAQ-R2dRaUSs-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="400" />
+              <mxPoint x="600" y="400" />
+              <mxPoint x="600" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-28" value="原始定位信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="610" y="390" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-37" target="nh0guIYAuAQ-R2dRaUSs-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-37" value="精确定位信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="480" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-41" target="nh0guIYAuAQ-R2dRaUSs-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="520" />
+              <mxPoint x="470" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-41" value="期望转角" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="340" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="nh0guIYAuAQ-R2dRaUSs-43" target="nh0guIYAuAQ-R2dRaUSs-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="520" />
+              <mxPoint x="470" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh0guIYAuAQ-R2dRaUSs-43" value="软件控制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="680" y="390" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
